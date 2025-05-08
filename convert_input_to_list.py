@@ -1,3 +1,13 @@
+# this sample was written by Cat Police's ai on Cat Stand discord server
+""" full prompts below
+write a python script that converts user input into a list of separate items of a certain type specified by user. examples:
+"str 1 2 3" -> ["1", "2", "3"]
+"int 69 42" -> [69, 42]
+
+i want data type to be specified as the first item in the input, i don't need multiple input prompts
+"""
+# the code below is what it replied with, copied straight from the message without any modifications
+
 import re
 import sys
 
