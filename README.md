@@ -1,7 +1,7 @@
 # The AI slop archive
 
 This place contains (will contain) the worst generative AI code to ever exist.
-In other words, this is `v i b e   c o d i n g` gone wrong.
+In other words, this is "vibe coded" code gone **horribly wrong**.
 
 I've mostly made this repo for myself, but if you want to take a look or contribute, go ahead!
 Any code you submit here has to be fully AI generated and must be terrible.
