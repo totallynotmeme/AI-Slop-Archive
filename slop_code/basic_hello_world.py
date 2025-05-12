@@ -39,4 +39,4 @@ sys = sys()
 # Now we can "write" our Hello World message
 # We need sep="" to avoid extra spaces, because we didn't use f-strings
 # We need end="" to avoid an extra newline, because print is weird
-getattr(sys.stdout, "write")(H+e+l1+l2+o+comma+_+W+o2+r+l3+d+exclamation_mark+newline, *(("",)*1), **{"end":""})
+getattr(sys.stdout, "write")(H,e,l1,l2,o,comma,_,W,o2,r,l3,d,exclamation_mark,newline, *(("",)*1), **{"sep":"","end":""})
